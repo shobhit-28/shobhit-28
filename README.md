@@ -20,9 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit-28&show_icons=true&locale=en&layout=compact" alt="shobhit-28" /></p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhit-28&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shobhit-28)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhit-28&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shobhit-28)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shobhit-28)
 
