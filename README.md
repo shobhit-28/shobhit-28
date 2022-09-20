@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shobhit-28](https://github.com/shobhit-28)
 
-- 📫 How to reach me **mailto:shobhitraj34@gmail.com**
+- 📫 How to reach me **shobhitraj34@gmail.com**
 
 - 📄 My portfolio -> [http://128.199.31.111/](http://128.199.31.111/)
 
