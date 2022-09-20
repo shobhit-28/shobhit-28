@@ -5,8 +5,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/shobhit-28?label=Followers&style=social)
 ![Profile views](https://gpvc.arturio.dev/shobhit-28)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shobhit-28&label=Profile%20views&color=0e75b6&style=flat" alt="shobhit-28" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/shobhit-28](https://github.com/shobhit-28)
 
 - 📫 How to reach me **shobhitraj34@gmail.com**
