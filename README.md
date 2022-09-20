@@ -22,7 +22,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhit-28&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shobhit-28)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shobhit-28)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shobhit-28)
+
+
 
