@@ -20,15 +20,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shobhit-28&show_icons=true&locale=en&layout=compact" alt="shobhit-28" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit-28&" alt="shobhit-28" /></p>
-
-
-
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shobhit-28)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shobhit-raj-19a588215//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://128.199.31.111/)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit-28)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhit-28&show_icons=true)  
 
