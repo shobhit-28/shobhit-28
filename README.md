@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shobhit Raj</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-[![Linkedin: Rahul](https://img.shields.io/badge/-Shobhit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobhit-raj-19a588215/)](https://www.linkedin.com/in/shobhit-raj-19a588215/)
+[![Linkedin: Shobhit](https://img.shields.io/badge/-Shobhit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobhit-raj-19a588215/)](https://www.linkedin.com/in/shobhit-raj-19a588215/)
 ![GitHub followers](https://img.shields.io/github/followers/shobhit-28?label=Followers&style=social)
 ![Profile views](https://gpvc.arturio.dev/shobhit-28)
 
