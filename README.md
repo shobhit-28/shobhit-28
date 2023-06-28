@@ -9,11 +9,10 @@
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
 - 🎓 I’m currently Studying **Computer Science and engineering**
-- 💡 Some technologies I enjoy working with **include Python, JavaScript.**
-- 🌱 I'm on track for learning **more about Django and Algorithms.**
-- 💬 Love to code in **Python**
+- 💡 Some technologies I enjoy working with **include JavaScript, React.**
+- 🌱 I'm on track for learning **more about Front End Web Development.**
+- 💬 Love to code in **JS**
 - 📫 How to reach me - You can mail me at **shobhitraj34@gmail.com**
-- 📄 My portfolio -> [http://128.199.31.111/](http://128.199.31.111/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
