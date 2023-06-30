@@ -27,7 +27,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shobhit-28&show_icons=true)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shobhit-28)  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shobhit-28&bg_color=000000&color=ff9696&line=ff0000&point=1a1919&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shobhit-28&bg_color=000000&color=ff9696&line=ff0000&point=1a1919&area=true&hide_border=true)](https://github.com/shobhit-28)
 
 
 
