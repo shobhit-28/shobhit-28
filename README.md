@@ -4,6 +4,7 @@
 [![Linkedin: Shobhit](https://img.shields.io/badge/-Shobhit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobhit-raj-19a588215/)](https://www.linkedin.com/in/shobhit-raj-19a588215/)
 ![GitHub followers](https://img.shields.io/github/followers/shobhit-28?label=Followers&style=social)
 ![Profile views](https://gpvc.arturio.dev/shobhit-28)
+![](https://komarev.com/ghpvc/?shobhit-28&style=for-the-badge)
 
 
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
