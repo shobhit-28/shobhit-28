@@ -8,7 +8,7 @@
 
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
-- 🎓 I’m currently Studying **Computer Science and engineering**
+- 🎓 I’m have done my Btech in **Computer Science and engineering**
 - 💡 Some technologies I enjoy working with **include JavaScript, React.**
 - 🌱 I'm on track for learning **more about Front End Web Development.**
 - 💬 Love to code in **JS**
