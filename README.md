@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Shobhit Raj</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">! I'm Shobhit Raj</h1>
+<p align="center" display="block">
+  <img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&vCenter=true&center=true&font=Fira+Code&pause=1000&color=ED2B2A&width=700&lines=This+is+Shobhit+Raj;+Frontend+Web+Developer;Currently+Creating+Projects+Using+React;" alt="Typing SVG" />
+</p>
 
 [![Linkedin: Shobhit](https://img.shields.io/badge/-Shobhit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shobhit-raj-19a588215/)](https://www.linkedin.com/in/shobhit-raj-19a588215/)
 ![GitHub followers](https://img.shields.io/github/followers/shobhit-28?label=Followers&style=social)
 ![](https://komarev.com/ghpvc/?username=shobhit-28&style=flat-square&color=dc143c)
-
 
 <img alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif" align="right"/>
 
